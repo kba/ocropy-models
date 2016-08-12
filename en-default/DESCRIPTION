@@ -1,0 +1,11 @@
+{
+"format": "pyrnn.gz",
+"summary": "Ocropy model for english texts",
+"author": "Tom Breuel",
+"author-email": "tmbdev@gmail.com",
+"license": "Apache 2.0",
+"modified": "2015-01-13T13:35:00Z",
+"url": "http://www.tmbdev.net/ocropy/",
+"name": "en-default.pyrnn.gz",
+"files": ["en-default.pyrnn.gz"]
+}

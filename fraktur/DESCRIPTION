@@ -1,0 +1,11 @@
+{
+"format": "pyrnn.gz",
+"summary": "Ocropy model trained for fraktur font",
+"author": "Tom Breuel",
+"author-email": "tmbdev@gmail.com",
+"license": "Apache 2.0",
+"modified": "2014-11-02T11:55:00Z",
+"url": "http://www.tmbdev.net/ocropy/",
+"name": "fraktur.pyrnn.gz",
+"files": ["fraktur.pyrnn.gz"]
+}
